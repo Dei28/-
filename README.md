@@ -234,7 +234,7 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 Для добавление изменений в коммит используется команда ```git add``` и имя файла<br>
 Например, ```git add README.md```
 
-![p](1.png)
+![p](pucture/1.png)
 ### Оправить коммит
 ```git commit -m "first commit"``` - команда для отправки коммита<br>
 * ```git commit``` - обращение к **GIT**
