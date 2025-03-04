@@ -241,14 +241,14 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 * ```-m``` - добавить сообщение *(коментарий)*
 * ```"first commit"``` - коментрарий *(в кавычках)*
 
-![p](2.png)
+![p](pucture/2.png)
 ### Посмотреть список коммитов
 * ```git log``` - стандартный вид
 
-![p](список_коммитов.png)
+![p](pucture/список_коммитов.png)
 * ```git log --graph``` - вид с графическим отображением веток
 
-![p](ветки.png)
+![p]pucture/(ветки.png)
 ### Перейти к сохранению
 * ```git checkout```
 * ```git checkout <номер коммита, первые 4 символа>``` - перейти к определенному изменению
@@ -256,25 +256,25 @@ https://docs.microsoft.com/ru-ru/contribute/markdown-reference
 ### Посмотреть есть ли не сохранненные изменения репозитория (файлов)
 * ```get status```
 
-![p](ctatus.png)
+![p](pucture/ctatus.png)
 ## Работа с ветками
 * ```git branch``` - посмотреть список веток
 
-![p](gb.png)
+![p](pucture/gb.png)
 * ```git branch <название ветки>``` - создать ветку (новая ветка унаследует коммиты родительской ветки)
-![p](bn.png)
+![p](pucture/bn.png)
 * ```git checkout <название ветки>``` - перейти на ветку
-![p](gc.png)
+![p](pucture/gc.png)
 * ```git branch -d <название ветки>``` - удалить ветку после merge
-![p](gc.png)
+![p](pucture/gc.png)
 * ```git branch -D <название ветки>``` - удалить ветку принудительно
-![p](gd.png)
+![p](pucture/gd.png)
 * ```git merge <название сливаемой ветки>``` - сливание веток
-![p](gc.png)
+![p](pucture/gc.png)
 
 ## конфликт 
 
-![p](Kon.png)
+![p](pucture/Kon.png)
 
 
 
